@@ -1,0 +1,991 @@
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <style>
+            .sub-header {
+    min-height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/Contactimages.jpg);
+    background-position: center;
+    background-size: cover;
+    position: center;
+    color: #fff;
+    text-align: center;
+}
+.sub-header h1{
+    font-size: 40px;
+    margin-top: 120px;
+}
+        </style>
+    </head>
+    <body>
+        <section class="sub-header">
+            <div class="">
+                <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+                    <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                    <a href="index.html"><img src="images/logo4.png" alt="Logo" class="logo"></a>
+                </a>
+                  <ul class="nav nav-pills">
+                    <li class="nav-item"><a href="index.html" class="nav-link text-white" aria-current="page">Home</a></li>
+                    <li class="nav-item"><a href="example.html" class="nav-link text-white">EXAMPLE</a></li>
+                    <li class="nav-item"><a href="future.html" class="nav-link text-white">FUTURES</a></li>
+                    <li class="nav-item"><a href="studaycase.html" class="nav-link text-white">SMART FARMING CASE</a></li>
+                    <li class="nav-item"><a href="api.html" class="nav-link text-white">WEATHER</a></li>
+                    <li class="nav-item"><a href="qa.html" class="nav-link text-white">Q&A</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link text-white">CONTACT</a></li>
+                  </ul>
+                </header>
+              </div>
+              <h1>Contact Us</h1>
+        </section>
+        <h1>แผนที่โรงเรียน</h1>
+        <section class="location">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.2708705678365!2d100.59333167581882!3d7.2099089148046716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31b2d2d000000001%3A0xbaeb379f7ecbf2e8!2z4LmC4Lij4LiH4LmA4Lij4Li14Lii4LiZ4Lih4Lir4Liy4Lin4LiK4Li04Lij4Liy4Lin4Li44LiYIOC4iOC4seC4h-C4q-C4p-C4seC4lOC4quC4h-C4guC4peC4sg!5e0!3m2!1sth!2sth!4v1725418352863!5m2!1sth!2sth" class="d-flex align-items-center justify-content-center rounded-3" width="1500" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+
+        <div class="container px-4 py-5" id="featured-3" data-aos="fade-up">
+            <h2 class="pb-2 border-bottom">ผู้จัดทำ</h2>
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+              <div class="feature col">
+                <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+                    <img width="160" src="images/person1.jpg" alt="" srcset="">
+                </div>
+                <h3 class="fs-2 text-body-emphasis">นายดรณ์ รักขา</h3>
+                <p>นักเรียนโรงเรียนมหาวชิราวุธ จังหวัดสงขลา</p>
+              </div>
+              <div class="feature col">
+                <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+                    <img width="170" src="images/person2.png" alt="" srcset="">
+                </div>
+                <h3 class="fs-2 text-body-emphasis">นายชัยพร รัชนีย์</h3>
+                <p>นักเรียนโรงเรียนมหาวชิราวุธ จังหวัดสงขลา</p>
+              </div>
+              <div class="feature col">
+                <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+                    <img width="230" src="images/person3.jpeg" alt="" srcset="">
+                </div>
+                <h3 class="fs-2 text-body-emphasis">นางศิริพร โภคาอนนต์</h3>
+                <p>ครูที่ปรึกษาโรงเรียนมหาวชิราวุธ จังหวัดสงขลา</p>
+              </div>
+            </div>
+          </div>
+
+        <footer class="py-3 my-4 container">
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+             
+              <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary" aria-current="page">Home</a>
+              </li>
+              <li class="nav-item"><a href="example.html" class="nav-link px-2 text-body-secondary">EXAMPLE</a></li>
+              <li class="nav-item"><a href="future.html" class="nav-link px-2 text-body-secondary">FUTURES</a></li>
+              <li class="nav-item"><a href="studaycase.html" class="nav-link px-2 text-body-secondary">SMART FARMING CASE</a>
+              </li> </li>    <li class="nav-item"><a href="api.html" class="nav-link px-2 text-body-secondary">WEATHER</a></li>
+              <li class="nav-item"><a href="qa.html" class="nav-link px-2 text-body-secondary">Q&A</a></li>
+              <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">CONTACT</a></li>
+            </ul>
+            <p class="text-center text-body-secondary">© 2024 MVSK SCHOOL</p>
+          </footer>
+          <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+          <script>
+            AOS.init();
+          </script>
+    </body>
+</html>
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <style>
+            .sub-header {
+    min-height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/qa2.jpg);
+    background-position: center;
+    background-size: cover;
+    position: center;
+    color: #fff;
+    text-align: center;
+}
+.sub-header h1{
+    font-size: 40px;
+    margin-top: 120px;
+}
+        </style>
+    </head>
+    <body>
+        <section class="sub-header">
+            <div class="">
+                <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+                    <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                    <a href="index.html"><img src="images/logo4.png" alt="Logo" class="logo"></a>
+                </a>
+                  <ul class="nav nav-pills">
+                    <li class="nav-item"><a href="index.html" class="nav-link text-white" aria-current="page">Home</a></li>
+                    <li class="nav-item"><a href="example.html" class="nav-link text-white">EXAMPLE</a></li>
+                    <li class="nav-item"><a href="future.html" class="nav-link text-white">FUTURES</a></li>
+                    <li class="nav-item"><a href="studaycase.html" class="nav-link text-white">SMART FARMING CASE</a></li>
+                    <li class="nav-item"><a href="api.html" class="nav-link text-white">WEATHER</a></li>
+                    <li class="nav-item"><a href="qa.html" class="nav-link text-white">Q&A</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link text-white">CONTACT</a></li>
+                  </ul>
+                </header>
+              </div>
+              <h1>คำถามที่พบบ่อย</h1>
+        </section>
+        <div data-aos="fade-up" class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center">
+            <div class="list-group">
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">Smart Farm คืออะไร?</h6>
+                    <p class="mb-0 opacity-75">Smart Farm หรือฟาร์มอัจฉริยะคือการใช้เทคโนโลยีดิจิทัลและอุปกรณ์อัจฉริยะในการบริหารจัดการฟาร์ม เพื่อลดต้นทุน เพิ่มผลผลิต และปรับปรุงความยั่งยืนของการเกษตร.</p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">เทคโนโลยีหลักที่ใช้ใน Smart Farm มีอะไรบ้าง?</h6>
+                    <p class="mb-0 opacity-75">เทคโนโลยีหลักประกอบด้วย Internet of Things (IoT), ระบบเซนเซอร์, ระบบการจัดการข้อมูล, การวิเคราะห์ข้อมูล (Data Analytics), หุ่นยนต์, และระบบการควบคุมอัตโนมัติ.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">Smart Farm ช่วยปรับปรุงผลผลิตได้อย่างไร?</h6>
+                    <p class="mb-0 opacity-75">โดยการใช้เซนเซอร์และการวิเคราะห์ข้อมูลเพื่อติดตามสภาพแวดล้อม เช่น ความชื้น, อุณหภูมิ, และปริมาณสารอาหาร เพื่อปรับการดูแลพืชและสัตว์อย่างเหมาะสม.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">การติดตั้ง Smart Farm มีค่าใช้จ่ายมากหรือไม่?</h6>
+                    <p class="mb-0 opacity-75">ค่าใช้จ่ายในการติดตั้ง Smart Farm สามารถแตกต่างกันไปขึ้นอยู่กับขนาดของฟาร์มและเทคโนโลยีที่เลือกใช้ แต่สามารถคืนทุนได้จากการเพิ่มผลผลิตและลดต้นทุนระยะยาว.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">การดูแลรักษาอุปกรณ์ใน Smart Farm เป็นอย่างไร?</h6>
+                    <p class="mb-0 opacity-75">การดูแลรักษาอุปกรณ์จำเป็นต้องมีการบำรุงรักษาและตรวจสอบอย่างสม่ำเสมอ โดยอาจต้องการการฝึกอบรมหรือการสนับสนุนจากผู้ผลิต.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">Smart Farm สามารถใช้ได้กับการเกษตรประเภทใดบ้าง?</h6>
+                    <p class="mb-0 opacity-75">สามารถนำไปใช้ได้กับการเกษตรหลายประเภท เช่น การปลูกพืช, การเลี้ยงสัตว์, และการเพาะปลูกในโรงเรือน.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">ข้อมูลที่เก็บจาก Smart Farm ใช้ประโยชน์อย่างไร?</h6>
+                    <p class="mb-0 opacity-75">ข้อมูลที่เก็บได้จะช่วยในการตัดสินใจเกี่ยวกับการจัดการฟาร์ม เช่น การควบคุมการให้น้ำ, การป้องกันโรคพืช, และการจัดการปุ๋ย.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">ข้อดีของการใช้ Smart Farm คืออะไร?</h6>
+                    <p class="mb-0 opacity-75">ข้อดีรวมถึงการเพิ่มผลผลิต, ลดการใช้ทรัพยากร, การปรับปรุงคุณภาพของผลิตภัณฑ์, และการลดผลกระทบต่อสิ่งแวดล้อม.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">มีความเสี่ยงหรือข้อจำกัดใดในการใช้ Smart Farm หรือไม่?</h6>
+                    <p class="mb-0 opacity-75">ความเสี่ยงรวมถึงความซับซ้อนของเทคโนโลยี, การพึ่งพิงการเชื่อมต่ออินเทอร์เน็ต, และต้นทุนเริ่มต้นที่สูง นอกจากนี้ ยังมีความเสี่ยงด้านความปลอดภัยของข้อมูล.
+                    </p>
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+                <img src="images/q.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">
+                <div class="d-flex gap-2 w-100 justify-content-between">
+                  <div>
+                    <h6 class="mb-0">อนาคตของ Smart Farm เป็นอย่างไร?</h6>
+                    <p class="mb-0 opacity-75">อนาคตของ Smart Farm มีแนวโน้มที่จะเติบโตอย่างต่อเนื่อง โดยมีการพัฒนาเทคโนโลยีใหม่ ๆ เช่น ปัญญาประดิษฐ์ (AI) และเทคโนโลยีการเรียนรู้ของเครื่อง (Machine Learning) ที่จะช่วยเพิ่มประสิทธิภาพและความยั่งยืนของการเกษตร.
+                    </p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            
+          </div>
+         <br><br><br> <div class="container">
+            <footer class="py-3 my-4">
+              <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+               
+                <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary" aria-current="page">Home</a>
+                </li>
+                <li class="nav-item"><a href="example.html" class="nav-link px-2 text-body-secondary">EXAMPLE</a></li>
+                <li class="nav-item"><a href="future.html" class="nav-link px-2 text-body-secondary">FUTURES</a></li>
+                <li class="nav-item"><a href="studaycase.html" class="nav-link px-2 text-body-secondary">SMART FARMING CASE</a>
+                    <li class="nav-item"><a href="api.html" class="nav-link px-2 text-body-secondary">WEATHER</a></li>
+                </li>
+                <li class="nav-item"><a href="qa.html" class="nav-link px-2 text-body-secondary">Q&A</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">CONTACT</a></li>
+              </ul>
+              <p class="text-center text-body-secondary">© 2024 MVSK SCHOOL</p>
+            </footer>
+          </div><script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+          <script>
+            AOS.init();
+          </script>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+        
+    </script>
+        <link rel="stylesheet" href="style.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .sub-header {
+            min-height: 50vh;
+            width: 100%;
+            background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/weather3.jpg);
+            background-position: center;
+            background-size: cover;
+            position: center;
+            color: #fff;
+            text-align: center;
+        }
+
+        .sub-header h1 {
+            font-size: 40px;
+            margin-top: 120px;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="sub-header">
+        <div class="">
+            <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+                <a href="index.html"
+                    class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                    <a href="index.html"><img src="images/logo4.png" alt="Logo" class="logo"></a>
+                </a>
+                <ul  class="nav nav-pills">
+                    <li class="nav-item"><a href="index.html" class="nav-link text-white" aria-current="page">Home</a>
+                    </li>
+                    <li class="nav-item"><a href="example.html" class="nav-link text-white">EXAMPLE</a></li>
+                    <li class="nav-item"><a href="future.html" class="nav-link text-white">FUTURES</a></li>
+                    <li class="nav-item"><a href="studaycase.html" class="nav-link text-white">SMART FARMING CASE</a>
+                    </li>
+                    <li class="nav-item"><a href="api.html" class="nav-link text-white">WEATHER</a></li>
+                    <li class="nav-item"><a href="qa.html" class="nav-link text-white">Q&A</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link text-white">CONTACT</a></li>
+                </ul>
+            </header>
+        </div>
+        <h1>สภาพอากาศตอนนี้ : Pattani</h1>
+        <p>The weather data updated every hour ( openweathermapi )</p>
+    </section><br><br><br><br>
+    <div>
+
+        <div data-aos="zoom-in" class="container d-flex justify-content-between">
+            <div class="d-flex">
+                <h2 class="">ความเร็วลม : <h2 class="ms-5" id="wind"></h2>(Knot)
+                </h2>
+            </div>
+            <div class="d-flex">
+                <h2 class="">อุณหภูมิ : <h2  class="ms-5" id="temp"> </h2>(K)
+            </h2>
+            </div>
+            <div class="d-flex">
+                <h2 class="">เมฆ : <h2  class="ms-5" id="cloud"></h2>
+            </h2>
+            </div>
+
+        </div><br><br><br><br>
+
+        <footer class="py-3 my-4 container">
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+             
+              <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary" aria-current="page">Home</a>
+              </li>
+              <li class="nav-item"><a href="example.html" class="nav-link px-2 text-body-secondary">EXAMPLE</a></li>
+              <li class="nav-item"><a href="future.html" class="nav-link px-2 text-body-secondary">FUTURES</a></li>
+              <li class="nav-item"><a href="studaycase.html" class="nav-link px-2 text-body-secondary">SMART FARMING CASE</a>
+              </li> </li>    <li class="nav-item"><a href="api.html" class="nav-link px-2 text-body-secondary">WEATHER</a></li>
+              <li class="nav-item"><a href="qa.html" class="nav-link px-2 text-body-secondary">Q&A</a></li>
+              <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">CONTACT</a></li>
+            </ul>
+            <p class="text-center text-body-secondary">© 2024 MVSK SCHOOL</p>
+          </footer>
+
+        <script>
+            function get(data) {
+                console.log(data)
+                document.getElementById('wind').innerText = data.wind.speed
+                document.getElementById('temp').innerText = data.main.temp
+                document.getElementById('cloud').innerText = data.weather[0].description
+            }
+
+            fetch('https://api.openweathermap.org/data/2.5/weather?appid=49afe25fe8e652a2a4a71b166c818ef0&id=1607976')
+                .then(response => response.json())
+                .then(data => get(data))
+                .catch(error => console.error('Error:', error));
+        </script>
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <script>
+            AOS.init();
+          </script>
+</body>
+
+</html>
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <style>
+            .sub-header {
+    min-height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/Examplesub-header.jpg);
+    background-position: center;
+    background-size: cover;
+    position: center;
+    color: #fff;
+    text-align: center;
+}
+.sub-header h1{
+    font-size: 40px;
+    margin-top: 120px;
+}
+        </style>
+    </head>
+    <body>
+        <section class="sub-header">
+            <div class="">
+                <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+                    <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                    <a href="index.html"><img src="images/logo4.png" alt="Logo" class="logo"></a>
+                </a>
+                  <ul class="nav nav-pills">
+                    <li class="nav-item"><a href="index.html" class="nav-link text-white" aria-current="page">Home</a></li>
+                    <li class="nav-item"><a href="example.html" class="nav-link text-white">EXAMPLE</a></li>
+                    <li class="nav-item"><a href="future.html" class="nav-link text-white">FUTURES</a></li>
+                    <li class="nav-item"><a href="studaycase.html" class="nav-link text-white">SMART FARMING CASE</a></li>
+                    <li class="nav-item"><a href="api.html" class="nav-link text-white">WEATHER</a></li>
+                    <li class="nav-item"><a href="qa.html" class="nav-link text-white">Q&A</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link text-white">CONTACT</a></li>
+                  </ul>
+                </header>
+              </div>
+              <h1>ตัวอย่างการใช้ Smart Farming ในปัจจุบัน</h1>
+        </section>
+        <div class="container2">
+            <div class="d-flex justify-content-between align-item-top my-5 gap-5">
+                <div>
+                    <h2>
+                        พัฒนาฟาร์มระบบออโต้
+                    </h2>
+                    <p>
+                        แนวคิดฟาร์มอัตโนมัติไม่ได้เป็นสิ่งใหม่เพราะมีคอนเซ็ปต์เกิดขึ้นมาอย่างยาวนาน แต่ปัญหาคือค่าใช้จ่ายสูง ไม่คุ้มค่าต่อการนำมาใช้จริง ซึ่งนักวิจัยจากมหาวิทยาลัยธรรมศาสตร์สาขาเทคโนโลยีเพื่อการพัฒนายั่งยืน และเทคโนโลยีการเกษตร ร่วมกันพัฒนาระบบรดน้ำอัตโนมัติผ่านแอปพลิเคชั่นบนสมาร์ทโฟนที่มีชื่อว่า ‘Smart Farm Kit’ ซึ่งนอกจากจะสามารถใช้ได้จริงยังสามารถติดตั้งได้ในราคาแสนประหยัด ประมาณ 1,000 บาทก็สามารถติดตั้งระบบได้ 1 ตารางกิโลเมตร หรือประมาณ 625 ไร่เลยทีเดียว! ด้วยอุปกรณ์ 3 อย่างได้แก่ ระบบควบคุมการเปิด-ปิดน้ำ ที่สามารถตั้งเวลาเปิด - ปิดน้ำได้ตามต้องการ ระบบเซ็นเซอร์ติดตามสภาพอากาศ ระบบสั่งการผ่านสมาร์ทโฟน ผลจากการทดลองใช้จริงคือนอกจากจะช่วยแบ่งเบาภาระของเกษตรกรได้พอสมควร ยังช่วยประหยัดน้ำได้มาก เพราะสามารถกระจายน้ำได้ดีกว่าใช้สายยางทั่วไป โดยโครงการเน้นพัฒนาไร่หรือพื้นที่สวนพื้นบ้านในพื้นที่ห่างไกลที่ยังทำเกษตรแบบดั้งเดิมอยู่ เพื่อการกระจายน้ำที่มีประสิทธิภาพมากขึ้นและช่วยแบ่งเบาภาระของเกษตรกรได้
+                    </p>
+                    <a href="future.html"  class="btn btn-danger">
+                        เข้าสู่หน้า FUTURE
+                    </a>
+                </div>
+                <img data-aos="zoom-in" class="rounded-3" src="images/autofarm.jpg" alt="" srcset="" width="800">
+            </div><br><br><br><br>
+            <h2 class="text-center">ตัวอย่างเพิ่มเติม</h2><br><br>
+            <div class="d-flex justify-content-center align-item-center my-5 gap-5">
+                <div>
+                    <img data-aos="zoom-in" width="400" class="rounded-3" src="images/drone.jpeg" alt="" srcset="">
+                    <h4><br>
+                        Drone
+                    </h3>
+                    <p  style="font-size: 14px;">
+                        เป็นเทคโนโลยีที่ใช้ในการบินเพื่อสำรวจและเก็บข้อมูลสภาพพื้นที่ เพื่อนำไปวิเคราะห์และหาแนวทางการจัดการพื้นที่ ตัวอย่างโดรนที่ใช้ในการทำเกษตร เช่น Droneseed และ Sense Fly เป็นต้น
+                    </p>
+                </div>
+                <div>
+                    <img data-aos="zoom-in" width="500" class="rounded-3" src="images/climate.jpg" alt="" srcset="">
+                    <h3><br>
+                        Climate Condition Monitoring
+                    </h3>
+                    <p style="font-size: 14px;">
+                        เป็นเทคโนโลยีในการเก็บข้อมูลเกี่ยวกับสภาพอากาศ ผ่านเซนเซอร์ที่ติดตั้งภายในสวน ซึ่งเซนเซอร์จะเก็บข้อมูลสภาพแวดล้อมและส่งต่อไปยัง Cloud เพื่อนำข้อมูลไปวิเคราะห์ต่อไป ตัวอย่างเครื่องมือในด้านนี้ เช่น allMeteo และ Pycno เป็นต้น
+
+                    </p>
+                </div>
+                <div>
+                    <img data-aos="zoom-in" width="400" class="rounded-3" src="images/greenhouse.jpg" alt="" srcset="">
+                    <h3><br>
+                        Greenhouse Automation
+                    </h3>
+                    <p  style="font-size: 14px;">
+                        สำหรับฟาร์มที่ทำการเกษตรแบบโรงเรือน ระบบนี้จะช่วยในการจัดการงานให้อัตโนมัติ ด้วยการตรวจจับสภาพแวดล้อมภายในผ่านเซนเซอร์<br> เช่น อุณหภูมิ แสง และดิน ตัวอย่างผลิตภัณฑ์ด้าน Greenhouse Automation เช่น Growlink และ GreenIQ เป็นต้น
+
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <footer class="py-3 my-4">
+              <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+               
+                <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary" aria-current="page">Home</a>
+                </li>
+                <li class="nav-item"><a href="example.html" class="nav-link px-2 text-body-secondary">EXAMPLE</a></li>
+                <li class="nav-item"><a href="future.html" class="nav-link px-2 text-body-secondary">FUTURES</a></li>
+                <li class="nav-item"><a href="studaycase.html" class="nav-link px-2 text-body-secondary">SMART FARMING CASE</a>
+                </li> </li>    <li class="nav-item"><a href="api.html" class="nav-link px-2 text-body-secondary">WEATHER</a></li>
+                <li class="nav-item"><a href="qa.html" class="nav-link px-2 text-body-secondary">Q&A</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">CONTACT</a></li>
+              </ul>
+              <p class="text-center text-body-secondary">© 2024 MVSK SCHOOL</p>
+            </footer>
+          </div>
+    </div>
+    <script>
+        AOS.init();
+      </script>
+    </body>
+</html>
+<html>
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+
+    <style>
+    /* HTML: <div class="loader"></div> */
+        .loader {
+            width: 45px;
+            aspect-ratio: .75;
+            --c: no-repeat linear-gradient(#ffff 0 0);
+            background:
+                var(--c) 0% 50%,
+                var(--c) 50% 50%,
+                var(--c) 100% 50%;
+            animation: l7 1s infinite linear alternate;
+        }
+
+        @keyframes l7 {
+            0% {
+                background-size: 20% 50%, 20% 50%, 20% 50%
+            }
+
+            20% {
+                background-size: 20% 20%, 20% 50%, 20% 50%
+            }
+
+            40% {
+                background-size: 20% 100%, 20% 20%, 20% 50%
+            }
+
+            60% {
+                background-size: 20% 50%, 20% 100%, 20% 20%
+            }
+
+            80% {
+                background-size: 20% 50%, 20% 50%, 20% 100%
+            }
+
+            100% {
+                background-size: 20% 50%, 20% 50%, 20% 50%
+            }
+        }
+    </style>
+</head>
+
+<body id="myDIV">
+    <section class="header">
+        <div class="">
+            <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+                <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                <a href="index.html"><img src="images/logo4.png" alt="Logo" class="logo"></a>
+            </a>
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a href="index.html" class="nav-link text-white" aria-current="page">Home</a></li>
+                <li class="nav-item"><a href="example.html" class="nav-link text-white">EXAMPLE</a></li>
+                <li class="nav-item"><a href="future.html" class="nav-link text-white">FUTURES</a></li>
+                <li class="nav-item"><a href="studaycase.html" class="nav-link text-white">SMART FARMING CASE</a></li>
+                <li class="nav-item"><a href="api.html" class="nav-link text-white">WEATHER</a></li>
+                <li class="nav-item"><a href="qa.html" class="nav-link text-white">Q&A</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link text-white">CONTACT</a></li>
+              </ul>
+            </header>
+          </div>
+        <div class="text-box">
+            <h1 data-aos="zoom-in-down">Smart Farming</h1>
+            <P>Smart Agriculture หรือ Smart Farm คือ การเกษตรแบบใหม่ ที่เปลี่ยนวิธีการดำเนินงานแบบเก่า มาใช้ข้อมูล
+                (Data)และเทคโนโลยีในการบริหารงานเกษตร
+                <br>เพื่อค้นหาวิถีการทำงานให้เหมาะสมและสร้างผลผลิตทางการเกษตรที่ยั่งยืน ลดต้นทุนที่ไม่จำเป็น
+                เพิ่มกำไรให้มากยิ่งขึ้น
+            </P>         <a href="index.html#ff"  class="btn btn-danger">
+                เพิ่มเติม
+            </a>
+        </div>
+    </section>
+    <div id="hello" class="fixed-top h-100 " style="background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/fb_cover.jpg);">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><div class="h-30 my-auto">
+            <h1 class="text-white">ยินดีต้อนรับเข้าสู่เว็บไซต์</h1>
+            <p class="mx-auto text-center text-white">Smart Farming เกษตรอัจฉริยะ</p>
+            <div class="mx-auto loader color-white"></div> <br><br>
+            <div class="position-absolute  top-80 start-50 translate-middle">
+                <button id="suu" class="btn btn-outline-light" onclick="myFunction()">
+                    เข้าสู่เว็บไซต์
+                </button>
+            </div>
+        </div>
+    </div>
+    <div data-aos="zoom-in-down"  class="container2 my-5"><br><br><br><br>
+        <h2 id="ff" class="text-center">Smart Farming เกษตรอัจฉริยะ</h2>
+        <p class="text-center mx-5">เป็นการทำเกษตรสมัยใหม่ในยุคดิจิทัลด้วยการใช้โทคโนโลยี อาทิ หุ่นยนต์ เครื่องจักร โดรน ai ฯลฯ นำเทคโนโลยีมาช่วยในการจัดการการเกษตรให้มีประสิทธิภาพมากขึ้น โดยเฉพาะระบบการประมวลผลข้อมูล และจัดเก็บข้อมูลทางอากาศจากโดรนและดาวเทียม โดยการใช้เทคโนโลยีอันเทอร์เน็ตแห่งสรรพสิ่ง (IoT) คือ การเชื่อมโยงของอุปกรณ์อัจฉริยะทั้งหลายผ่านอินเทอร์เน็ตและเป็นความยกระดับการพัฒนาเกษตรกรรม ใน 4 ด้าน
+        </p><br>
+        <div class="d-flex justify-content-between align-item-top">
+            <div class="bg-dang rounded-3 p-3 m-3">
+                <h4>
+                    1.ลดต้นทุนในกระบวนการผลิต 
+                </h4>
+                <p>
+                    การทำ Smart Farming เพื่อลดต้นทุนในกระบวนการผลิตเป็นการนำเทคโนโลยีและระบบอัตโนมัติเข้ามาช่วยในการจัดการเกษตรกรรม โดยสามารถเพิ่มประสิทธิภาพและลดต้นทุนได้ในหลายๆ ด้าน
+
+                </p>
+            </div>
+            <div class="bg-dang rounded-3 p-3 m-3">
+                <h4>
+                    2.เพิ่มคุณภาพมาตรฐานการผลิตและมาตรฐานสินค้า
+                </h4>
+                <p>
+                    Smart Farming ช่วยเพิ่มคุณภาพมาตรฐานการผลิตและมาตรฐานสินค้าด้วยการนำเทคโนโลยีและนวัตกรรมต่างๆ มาใช้ในกระบวนการผลิต ซึ่งทำให้การเกษตรมีความแม่นยำและควบคุมคุณภาพได้ดียิ่งขึ้น
+
+
+                </p>
+            </div>
+            <div class="bg-dang rounded-3 p-3 m-3">
+                <h4>
+                    3.ลดความเสี่ยงที่เกิดจากการระบาดของศัตรพืชและจากภัยธรรมชาติ
+
+                </h4>
+                <p>
+                    Smart Farming ช่วยลดความเสี่ยงในภาคเกษตรที่เกิดจากการระบาดของศัตรูพืชและภัยธรรมชาติได้โดยการนำเทคโนโลยีและข้อมูลมาใช้ในการตรวจสอบ คาดการณ์ และตอบสนองต่อสถานการณ์ที่อาจเกิดขึ้นอย่างทันท่วงที
+
+                </p>
+            </div>
+            <div class="bg-dang rounded-3 p-3 m-3">
+                <h4>
+                    4.จัดการส่งผ่านความรู้โดยใช้เทคโนโลยีและนวัตกรรม
+                </h4>
+                <p>
+                    การส่งผ่านความรู้ในภาคเกษตรด้วยการใช้เทคโนโลยีและนวัตกรรมใน Smart Farming เป็นกระบวนการที่สำคัญในการเพิ่มประสิทธิภาพการผลิตและยกระดับความรู้ของเกษตรกร เทคโนโลยีและนวัตกรรมที่เกี่ยวข้องช่วยให้ความรู้สามารถกระจายได้อย่างรวดเร็วและเข้าถึงได้ง่ายยิ่งขึ้น
+
+                </p>
+            </div>
+        </div><br><br><br><br>
+        <div class="d-flex justify-content-between align-item-top my-5 gap-5">
+            <div>
+                <h2>
+                    จากเกษตร 2.0 สู่ เกษตร 4.0
+                </h2>
+                <p>
+                    เกษตรกรรมของประเทศไทยถูกเปลี่ยนแปลงครั้งใหญ่มาแล้ว จากการเกษตรสมัยก่อนที่ใช้วิธีดั้งเดิม ขึ้นอยู่กับสภาพดินฟ้าอากาศ แต่เมื่อเข้าสู่ช่วงเกษตรกร 2.0 รัฐบาลได้สนับสนุนการใช้เครื่องจักรเบา (Light Machine) แทนแรงงานคนและใช้ควบคุมระบบน้ำเพื่อให้เพาะปลูกได้ตลอดทั้งปี ไปจนถึงเครื่องจักรหนัก (Heavy Machine) ที่ทำให้สามารถสร้างผลิตภัณฑ์การเกษตรส่งออกได้เต็มรูปแบบ
+                    <br><br> แล้วเกษตร 4.0 คืออะไร? ในเมื่อได้มีเครื่องจักรใหญ่ ๆ ช่วยในการผลิตและขนส่งไปเรียบร้อยแล้ว แต่ส่วนที่เกษตร 4.0 จะเข้ามามีส่วนช่วยเกษตรกรอย่างมากในที่นี้คือความแม่นยำ และการควบคุมคุณภาพสินค้า อาจเป็นตั้งแต่ขั้นตอนการเตรียมเมล็ดพันธุ์ หรือขั้นตอนการเตรียมดินเลยก็ได้ เรียกกันง่าย ๆ ว่าการสร้างฟาร์มอัจฉริยะ หรือที่ในแวดวงเกษตรกรรมเรียกกันว่าเกษตรแม่นยำสูง                   
+                </p>
+                <a href="example.html"  class="btn btn-danger">
+                    เข้าสู่หน้า EXAMPLE
+                </a>
+            </div>
+            <img  data-aos="fade-left" class="" src="images/farm4.0.jpg" alt="" srcset="" width="800">
+        </div><br><br><br><br>
+        <h2 class="text-center">
+            เกษตรแม่นยำสูง (Precision Agriculture)
+        </h2><br><br><br>
+        <div class="d-flex justify-content-between align-item-top my-5 gap-5">
+            <div>
+                <img  data-aos="flip-left" class="rounded-3" width="400" src="images/Precision1.jpg" alt="" srcset="">
+            </div>
+            <div>
+                <img  data-aos="flip-left" class="rounded-3" width="400" src="images/Precision2.png" alt="" srcset="">
+            </div>
+            <div>
+                <img   data-aos="flip-left" class="rounded-3" width="400" src="images/Precision3.jpg" alt="" srcset="">
+            </div>
+        </div>
+        <p class="text-center container">เพราะการเกษตรต้องพึ่งพิงปัจจัยที่ควบคุมไม่ได้หลายอย่าง ตั้งแต่ฟ้า ฝน อากาศ ทำให้การควบคุมคุณภาพผลิตภัณฑ์เป็นเรื่องยาก โดยเกษตรแม่นยำสูงใช้เทคโนโลยีต่าง ๆ มาตรวจสอบสภาพแวดล้อมที่ควบคุมไม่ได้เหล่านี้ เพื่อมาปรับในการเพาะปลูกพืชพรรณในไร่อย่างมีประสิทธิภาพ และช่วยแบ่งเบาภาระของเกษตรกรไปพร้อม ๆ กัน ทำให้สามารถตั้งรับทุกปัญหา และได้ผลผลิตที่มีคุณภาพรวมถึงปริมาณที่ตรงกับเป้าหมายที่ตั้งไว้ก่อนเพาะปลูกอย่างแม่นยำ
+        </p>
+
+
+        <div class="container">
+            <footer class="py-3 my-4">
+              <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+               
+                <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary" aria-current="page">Home</a>
+                </li>
+                <li class="nav-item"><a href="example.html" class="nav-link px-2 text-body-secondary">EXAMPLE</a></li>
+                <li class="nav-item"><a href="future.html" class="nav-link px-2 text-body-secondary">FUTURES</a></li>
+                <li class="nav-item"><a href="studaycase.html" class="nav-link px-2 text-body-secondary">SMART FARMING CASE</a>
+                </li>    <li class="nav-item"><a href="api.html" class="nav-link px-2 text-body-secondary">WEATHER</a></li>
+                <li class="nav-item"><a href="qa.html" class="nav-link px-2 text-body-secondary">Q&A</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">CONTACT</a></li>
+              </ul>
+              <p class="text-center text-body-secondary">© 2024 MVSK SCHOOL</p>
+            </footer>
+          </div>
+    </div>
+</body>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    function myFunction(){
+        document.getElementById('suu').onclick = document.getElementById('hello').classList.add('visually-hidden');
+        document.getElementById("myDIV").style.overflow = "auto";
+    }
+    document.getElementById("myDIV").style.overflow = "hidden";
+</script>
+<script>
+    AOS.init();
+  </script>
+
+</html>
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <style>
+            .sub-header {
+    min-height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/studycase-head.jpg);
+    background-position: center;
+    background-size: cover;
+    position: center;
+    color: #fff;
+    text-align: center;
+}
+.sub-header h1{
+    font-size: 40px;
+    margin-top: 120px;
+}
+        </style>
+    </head>
+    <body>
+        <section class="sub-header">
+            <div class="">
+                <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
+                    <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                    <a href="index.html"><img src="images/logo4.png" alt="Logo" class="logo"></a>
+                </a>
+                  <ul class="nav nav-pills">
+                    <li class="nav-item"><a href="index.html" class="nav-link text-white" aria-current="page">Home</a></li>
+                    <li class="nav-item"><a href="example.html" class="nav-link text-white">EXAMPLE</a></li>
+                    <li class="nav-item"><a href="future.html" class="nav-link text-white">FUTURES</a></li>
+                    <li class="nav-item"><a href="studaycase.html" class="nav-link text-white">SMART FARMING CASE</a></li>
+                    <li class="nav-item"><a href="api.html" class="nav-link text-white">WEATHER</a></li>
+                    <li class="nav-item"><a href="qa.html" class="nav-link text-white">Q&A</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link text-white">CONTACT</a></li>
+                  </ul>
+                </header>
+              </div>
+              <h1>คลิปวีดีโอตัวอย่างของ Smart Farming</h1>
+        </section><br><br><br><br><br>
+        <h2 class="text-center">คลิปวีดีโอตัวอย่างของ Smart Farming</h2>
+
+        <div class="d-flex justify-content-between align-item-top my-5 gap-5 container2">
+            <div>
+                <h3>ระบบ Smart farm IOT ลดต้นทุนเกษตรกร</h3>
+                <iframe class="rounded-3" width="560" height="315" src="https://www.youtube.com/embed/-dFJYBs8QRI?si=B0-gy_QUgu7HYZI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            <div>
+                <h3>Smart Farm เครื่องมือทุนแรงของคนวัยเกษียณ</h3>
+                <iframe class="rounded-3" width="560" height="315" src="https://www.youtube.com/embed/YeDdHcbs7Cw?si=oz1cEHxgHvmNEEYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="d-flex justify-content-between align-item-top my-5 gap-5 container2">
+            <div>
+                <h3>GO Smart Farm by AIS iFarm</h3>
+                <iframe class="rounded-3" width="560" height="315" src="https://www.youtube.com/embed/25KFeCcwQcI?si=Q9QrqvDsPFdRltKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            <div>
+                <h4>จันทร์เรืองฟาร์ม สวนทุเรียนที่ควบคุมด้วยสมาร์ตโฟน</h4>
+                <iframe class="rounded-3" width="560" height="315" src="https://www.youtube.com/embed/X1B620NHaAU?si=sxhw-jfEIOaQgW7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+                </div>
+                <br><br><br><br> <footer class="py-3 my-4">
+                    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+                     
+                      <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary" aria-current="page">Home</a>
+                      </li>
+                      <li class="nav-item"><a href="example.html" class="nav-link px-2 text-body-secondary">EXAMPLE</a></li>
+                      <li class="nav-item"><a href="future.html" class="nav-link px-2 text-body-secondary">FUTURES</a></li>
+                      <li class="nav-item"><a href="studaycase.html" class="nav-link px-2 text-body-secondary">SMART FARMING CASE</a>
+                      </li> </li>    <li class="nav-item"><a href="api.html" class="nav-link px-2 text-body-secondary">WEATHER</a></li>
+                      <li class="nav-item"><a href="qa.html" class="nav-link px-2 text-body-secondary">Q&A</a></li>
+                      <li class="nav-item"><a href="contact.html" class="nav-link px-2 text-body-secondary">CONTACT</a></li>
+                    </ul>
+                    <p class="text-center text-body-secondary">© 2024 MVSK SCHOOL</p>
+                  </footer>
+                  <script>
+                    AOS.init();
+                  </script>
+    </body>
+</html>
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: "Kanit", sans-serif;
+}
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/background-image.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header .logo{
+    width: 300px;
+    height: auto;
+}
+.nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-box{
+    width: 90%;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text-box h1{
+    font-size: 54px;
+}
+.text-box p{
+    margin: 10px 0 40px;
+    color: #fff;
+    text-align: center;
+}
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container2{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+@keyframes example {
+    0%   {background-color:rgb(255, 157, 157); left:0px; top:0px;}
+    50%  {background-color:rgb(255, 255, 195); left:200px; top:0px;}
+    100% {background-color:rgb(255, 157, 157); left:0px; top:0px;}
+  }
+.bg-dang{
+    background-color: rgb(255, 207, 207);
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+
+//homepage
+Smart Farming
+
+Smart Agriculture หรือ Smart Farm คือ การเกษตรแบบใหม่ ที่เปลี่ยนวิธีการดำเนินงานแบบเก่า มาใช้ข้อมูล (Data)
+และเทคโนโลยีในการบริหารงานเกษตร เพื่อค้นหาวิถีการทำงานให้เหมาะสมและสร้างผลผลิตทางการเกษตรที่ยั่งยืน ลดต้นทุนที่ไม่จำเป็น เพิ่มกำไรให้มากยิ่งขึ้น
+
+
+Smart Farming เกษตรอัจฉริยะ
+เป็นการทำเกษตรสมัยใหม่ในยุคดิจิทัลด้วยการใช้โทคโนโลยี อาทิ หุ่นยนต์ เครื่องจักร โดรน ai ฯลฯ นำเทคโนโลยีมาช่วยในการจัดการการเกษตรให้มีประสิทธิภาพมากขึ้น โดยเฉพาะระบบการประมวลผลข้อมูล และจัดเก็บข้อมูลทางอากาศจากโดรนและดาวเทียม โดยการใช้เทคโนโลยีอันเทอร์เน็ตแห่งสรรพสิ่ง (IoT) คือ การเชื่อมโยงของอุปกรณ์อัจฉริยะทั้งหลายผ่านอินเทอร์เน็ตและเป็นความยกระดับการพัฒนาเกษตรกรรม ใน 4 ด้าน
+1.ลดต้นทุนในกระบวนการผลิต 
+การทำ Smart Farming เพื่อลดต้นทุนในกระบวนการผลิตเป็นการนำเทคโนโลยีและระบบอัตโนมัติเข้ามาช่วยในการจัดการเกษตรกรรม โดยสามารถเพิ่มประสิทธิภาพและลดต้นทุนได้ในหลายๆ ด้าน
+2.เพิ่มคุณภาพมาตรฐานการผลิตและมาตรฐานสินค้า
+Smart Farming ช่วยเพิ่มคุณภาพมาตรฐานการผลิตและมาตรฐานสินค้าด้วยการนำเทคโนโลยีและนวัตกรรมต่างๆ มาใช้ในกระบวนการผลิต ซึ่งทำให้การเกษตรมีความแม่นยำและควบคุมคุณภาพได้ดียิ่งขึ้น
+3.ลดความเสี่ยงที่เกิดจากการระบาดของศัตรพืชและจากภัยธรรมชาติ
+Smart Farming ช่วยลดความเสี่ยงในภาคเกษตรที่เกิดจากการระบาดของศัตรูพืชและภัยธรรมชาติได้โดยการนำเทคโนโลยีและข้อมูลมาใช้ในการตรวจสอบ คาดการณ์ และตอบสนองต่อสถานการณ์ที่อาจเกิดขึ้นอย่างทันท่วงที
+4.จัดการส่งผ่านความรู้โดยใช้เทคโนโลยีและนวัตกรรม
+การส่งผ่านความรู้ในภาคเกษตรด้วยการใช้เทคโนโลยีและนวัตกรรมใน Smart Farming เป็นกระบวนการที่สำคัญในการเพิ่มประสิทธิภาพการผลิตและยกระดับความรู้ของเกษตรกร เทคโนโลยีและนวัตกรรมที่เกี่ยวข้องช่วยให้ความรู้สามารถกระจายได้อย่างรวดเร็วและเข้าถึงได้ง่ายยิ่งขึ้น
+
+
+จากเกษตร 2.0 สู่ เกษตร 4.0
+
+เกษตรกรรมของประเทศไทยถูกเปลี่ยนแปลงครั้งใหญ่มาแล้ว จากการเกษตรสมัยก่อนที่ใช้วิธีดั้งเดิม ขึ้นอยู่กับสภาพดินฟ้าอากาศ แต่เมื่อเข้าสู่ช่วงเกษตรกร 2.0 รัฐบาลได้สนับสนุนการใช้เครื่องจักรเบา (Light Machine) แทนแรงงานคนและใช้ควบคุมระบบน้ำเพื่อให้เพาะปลูกได้ตลอดทั้งปี ไปจนถึงเครื่องจักรหนัก (Heavy Machine) ที่ทำให้สามารถสร้างผลิตภัณฑ์การเกษตรส่งออกได้เต็มรูปแบบ
+แล้วเกษตร 4.0 คืออะไร? ในเมื่อได้มีเครื่องจักรใหญ่ ๆ ช่วยในการผลิตและขนส่งไปเรียบร้อยแล้ว แต่ส่วนที่เกษตร 4.0 จะเข้ามามีส่วนช่วยเกษตรกรอย่างมากในที่นี้คือความแม่นยำ และการควบคุมคุณภาพสินค้า อาจเป็นตั้งแต่ขั้นตอนการเตรียมเมล็ดพันธุ์ หรือขั้นตอนการเตรียมดินเลยก็ได้ เรียกกันง่าย ๆ ว่าการสร้างฟาร์มอัจฉริยะ หรือที่ในแวดวงเกษตรกรรมเรียกกันว่าเกษตรแม่นยำสูง
+
+เกษตรแม่นยำสูง (Precision Agriculture)
+
+เพราะการเกษตรต้องพึ่งพิงปัจจัยที่ควบคุมไม่ได้หลายอย่าง ตั้งแต่ฟ้า ฝน อากาศ ทำให้การควบคุมคุณภาพผลิตภัณฑ์เป็นเรื่องยาก โดยเกษตรแม่นยำสูงใช้เทคโนโลยีต่าง ๆ มาตรวจสอบสภาพแวดล้อมที่ควบคุมไม่ได้เหล่านี้ เพื่อมาปรับในการเพาะปลูกพืชพรรณในไร่อย่างมีประสิทธิภาพ และช่วยแบ่งเบาภาระของเกษตรกรไปพร้อม ๆ กัน ทำให้สามารถตั้งรับทุกปัญหา และได้ผลผลิตที่มีคุณภาพรวมถึงปริมาณที่ตรงกับเป้าหมายที่ตั้งไว้ก่อนเพาะปลูกอย่างแม่นยำ
+
+About Us
+เนื้อหานี้มีไว้เพื่อแสดงข้อมูลต่างๆเกี่ยวกับ Smart Farming
+จากพวกเรากลุ่มนักเรียนโรงเรียนมหาวชิราวุธ จังหวัดสงขลา
+
+//page 1 EXAMPLE
+ตัวอย่างการใช้ Smart Farming ในปัจจุบัน
+
+พัฒนาฟาร์มระบบออโต้
+แนวคิดฟาร์มอัตโนมัติไม่ได้เป็นสิ่งใหม่เพราะมีคอนเซ็ปต์เกิดขึ้นมาอย่างยาวนาน แต่ปัญหาคือค่าใช้จ่ายสูง ไม่คุ้มค่าต่อการนำมาใช้จริง ซึ่งนักวิจัยจากมหาวิทยาลัยธรรมศาสตร์สาขาเทคโนโลยีเพื่อการพัฒนายั่งยืน และเทคโนโลยีการเกษตร ร่วมกันพัฒนาระบบรดน้ำอัตโนมัติผ่านแอปพลิเคชั่นบนสมาร์ทโฟนที่มีชื่อว่า ‘Smart Farm Kit’ ซึ่งนอกจากจะสามารถใช้ได้จริงยังสามารถติดตั้งได้ในราคาแสนประหยัด ประมาณ 1,000 บาทก็สามารถติดตั้งระบบได้ 1 ตารางกิโลเมตร หรือประมาณ 625 ไร่เลยทีเดียว! ด้วยอุปกรณ์ 3 อย่างได้แก่ ระบบควบคุมการเปิด-ปิดน้ำ ที่สามารถตั้งเวลาเปิด - ปิดน้ำได้ตามต้องการ ระบบเซ็นเซอร์ติดตามสภาพอากาศ ระบบสั่งการผ่านสมาร์ทโฟน ผลจากการทดลองใช้จริงคือนอกจากจะช่วยแบ่งเบาภาระของเกษตรกรได้พอสมควร ยังช่วยประหยัดน้ำได้มาก เพราะสามารถกระจายน้ำได้ดีกว่าใช้สายยางทั่วไป โดยโครงการเน้นพัฒนาไร่หรือพื้นที่สวนพื้นบ้านในพื้นที่ห่างไกลที่ยังทำเกษตรแบบดั้งเดิมอยู่ เพื่อการกระจายน้ำที่มีประสิทธิภาพมากขึ้นและช่วยแบ่งเบาภาระของเกษตรกรได้
+
+ตัวอย่างเพิ่มเติม
+Drone
+เป็นเทคโนโลยีที่ใช้ในการบินเพื่อสำรวจและเก็บข้อมูลสภาพพื้นที่ เพื่อนำไปวิเคราะห์และหาแนวทางการจัดการพื้นที่ ตัวอย่างโดรนที่ใช้ในการทำเกษตร เช่น Droneseed และ Sense Fly เป็นต้น
+
+Climate Condition Monitoring
+เป็นเทคโนโลยีในการเก็บข้อมูลเกี่ยวกับสภาพอากาศ ผ่านเซนเซอร์ที่ติดตั้งภายในสวน ซึ่งเซนเซอร์จะเก็บข้อมูลสภาพแวดล้อมและส่งต่อไปยัง Cloud เพื่อนำข้อมูลไปวิเคราะห์ต่อไป ตัวอย่างเครื่องมือในด้านนี้ เช่น allMeteo และ Pycno เป็นต้น
+
+Greenhouse Automation
+สำหรับฟาร์มที่ทำการเกษตรแบบโรงเรือน ระบบนี้จะช่วยในการจัดการงานให้อัตโนมัติ ด้วยการตรวจจับสภาพแวดล้อมภายในผ่านเซนเซอร์ เช่น อุณหภูมิ แสง และดิน ตัวอย่างผลิตภัณฑ์ด้าน Greenhouse Automation เช่น Growlink และ GreenIQ เป็นต้น
+
+//page2 FUTURE
+ก้าวต่อไปของเกษตรกรไทย
+
+การใช้ Smart farm ร่วมกับ AI 
+
+นอกจากนั้นเกษตรกรไทยยังต้องมุ่งเน้นพัฒนาการผลิตพืชเศรษฐกิจหลักของประเทศอย่าง ข้าว โดยได้มีนักวิทยาศาสตร์ภาคเกษตรกรรมของมหาวิทยาลัยธรรมศาสตร์ ผศ.ดร.ดุสิต อธินุวัฒน์ กำลังพัฒนาระบบที่สามารถพยากรณ์การเกิดโรคในนาข้าว โดยใช้ระบบเซ็นเซอร์เก็บข้อมูลสภาพแวดล้อมและสภาพอากาศ ทั้งเรื่องของอุณหภูมิ ความชื้น ปริมาณน้ำฝน ที่ทำงานโดยอาศัยแบตเตอรี่พลังงานโซลาร์เซลล์ ซึ่งเครื่องสามารถส่งข้อมูลไปในสมาร์ทโฟนเจ้าของนาข้าวได้แบบปัจจุบันทันด่วน (Real Time) ทำให้สามารถใช้ปุ๋ยและยาฆ่าแมลงกันไว้ก่อนที่จะเกิดโรคระบาดได้ ซึ่งระบบยังอยู่ในขั้นตอนการพัฒนาอยู่ แต่ลองคิดกันสนุก ๆ หากใช้ระบบดังกล่าวร่วมกับใช้สมองกล (AI) พัฒนาการพยากรณ์ให้แม่นยำที่สุด และขยายระบบให้ใช้ได้กับพืชผักผลไม้หลากหลายขึ้น การเกษตรประเทศไทยจะสามารถเติบโตอย่างก้าวกระโดดแน่นอน
+//video : https://www.youtube.com/embed/KfB2sx9uCkI?si=Ld4XKNyqVqZPzhF2
+
+เทคโนโลยีที่อาจนำมาปรับใช้ในอนาคต
+//video : https://www.youtube.com/embed/SzMiJFOa6w8?si=0KizttgiOf6mLMEE
+
+//footer
+แน่นอนว่าขณะนี้เรายังอยู่ในขั้นตอนการพัฒนาในหลาย ๆ ส่วน ซึ่งต้องอาศัยการจับมือกัน ระหว่างเกษตรกรที่ต้องเปิดรับเทคโนโลยีที่ทันสมัยและทำให้ผลิตภัณฑ์ของตนมีประสิทธิภาพสูงขึ้น นักวิทยาศาสตร์เองก็ต้องรับฟังความต้องการและปัญหาของเกษตรกร สร้างวิทยาการที่ทั้งล้ำสมัยและใช้ได้จริง ทำให้อู่ข้าวอู่น้ำแห่งนี้ไม่เป็นสองรองใครอีกครั้งหนึ่ง!
+
+
+
+
+//page3 Smart Farming Case
+Study Case
+
+คลิปวีดีโอตัวอย่างของ Smart Farming
+เพื่อแสดงให้เห็นว่า Smart Farming นั้นมีประโยชน์ต่อมนุษย์และเราสามารถพิสูจน์มันได้
+
+ระบบ Smart farm IOT ลดต้นทุนเกษตรกร
+//video : https://www.youtube.com/watch?v=-dFJYBs8QRI
+
+Smart Farm เครื่องมือทุนแรงของคนวัยเกษียณ
+//video : https://www.youtube.com/watch?v=YeDdHcbs7Cw
+
+GO Smart Farm by AIS iFarm
+//video : https://www.youtube.com/watch?v=25KFeCcwQcI
+
+จันทร์เรืองฟาร์ม สวนทุเรียนที่ควบคุมด้วยสมาร์ตโฟน
+//video : https://www.youtube.com/watch?v=X1B620NHaAU
+
+//page4 Q&A
+คำถามที่พบบ่อย
+
+Smart Farm คืออะไร?
+Smart Farm หรือฟาร์มอัจฉริยะคือการใช้เทคโนโลยีดิจิทัลและอุปกรณ์อัจฉริยะในการบริหารจัดการฟาร์ม เพื่อลดต้นทุน เพิ่มผลผลิต และปรับปรุงความยั่งยืนของการเกษตร.
+
+เทคโนโลยีหลักที่ใช้ใน Smart Farm มีอะไรบ้าง?
+เทคโนโลยีหลักประกอบด้วย Internet of Things (IoT), ระบบเซนเซอร์, ระบบการจัดการข้อมูล, การวิเคราะห์ข้อมูล (Data Analytics), หุ่นยนต์, และระบบการควบคุมอัตโนมัติ.
+
+Smart Farm ช่วยปรับปรุงผลผลิตได้อย่างไร?
+โดยการใช้เซนเซอร์และการวิเคราะห์ข้อมูลเพื่อติดตามสภาพแวดล้อม เช่น ความชื้น, อุณหภูมิ, และปริมาณสารอาหาร เพื่อปรับการดูแลพืชและสัตว์อย่างเหมาะสม.
+
+การติดตั้ง Smart Farm มีค่าใช้จ่ายมากหรือไม่?
+ค่าใช้จ่ายในการติดตั้ง Smart Farm สามารถแตกต่างกันไปขึ้นอยู่กับขนาดของฟาร์มและเทคโนโลยีที่เลือกใช้ แต่สามารถคืนทุนได้จากการเพิ่มผลผลิตและลดต้นทุนระยะยาว.
+
+การดูแลรักษาอุปกรณ์ใน Smart Farm เป็นอย่างไร?
+การดูแลรักษาอุปกรณ์จำเป็นต้องมีการบำรุงรักษาและตรวจสอบอย่างสม่ำเสมอ โดยอาจต้องการการฝึกอบรมหรือการสนับสนุนจากผู้ผลิต.
+
+Smart Farm สามารถใช้ได้กับการเกษตรประเภทใดบ้าง?
+สามารถนำไปใช้ได้กับการเกษตรหลายประเภท เช่น การปลูกพืช, การเลี้ยงสัตว์, และการเพาะปลูกในโรงเรือน.
+
+ข้อมูลที่เก็บจาก Smart Farm ใช้ประโยชน์อย่างไร?
+ข้อมูลที่เก็บได้จะช่วยในการตัดสินใจเกี่ยวกับการจัดการฟาร์ม เช่น การควบคุมการให้น้ำ, การป้องกันโรคพืช, และการจัดการปุ๋ย.
+
+ข้อดีของการใช้ Smart Farm คืออะไร?
+ข้อดีรวมถึงการเพิ่มผลผลิต, ลดการใช้ทรัพยากร, การปรับปรุงคุณภาพของผลิตภัณฑ์, และการลดผลกระทบต่อสิ่งแวดล้อม.
+มีความเสี่ยงหรือข้อจำกัดใดในการใช้ Smart Farm หรือไม่?
+ความเสี่ยงรวมถึงความซับซ้อนของเทคโนโลยี, การพึ่งพิงการเชื่อมต่ออินเทอร์เน็ต, และต้นทุนเริ่มต้นที่สูง นอกจากนี้ ยังมีความเสี่ยงด้านความปลอดภัยของข้อมูล.
+
+อนาคตของ Smart Farm เป็นอย่างไร?
+อนาคตของ Smart Farm มีแนวโน้มที่จะเติบโตอย่างต่อเนื่อง โดยมีการพัฒนาเทคโนโลยีใหม่ ๆ เช่น ปัญญาประดิษฐ์ (AI) และเทคโนโลยีการเรียนรู้ของเครื่อง (Machine Learning) ที่จะช่วยเพิ่มประสิทธิภาพและความยั่งยืนของการเกษตร.
+
+//page contact
+
+Contact Us 
+
+แผนที่โรงเรียน 
+
+ผู้จัดทำ 
+นายดรณ์ รักขา
+นักเรียนโรงเรียนมหาวชิราวุธ จังหวัดสงขลา
+
+นายชัยพร รัชนีย์
+นักเรียนโรงเรียนมหาวชิราวุธ จังหวัดสงขลา
+
+นางศิริพร โภคาอนนต์
+ครูที่ปรึกษาโรงเรียนมหาวชิราวุธ จังหวัดสงขลา
+
+//footer //page2 future
+แน่นอนว่าขณะนี้เรายังอยู่ในขั้นตอนการพัฒนาในหลาย ๆ ส่วน ซึ่งต้องอาศัยการจับมือกัน ระหว่างเกษตรกรที่ต้องเปิดรับเทคโนโลยีที่ทันสมัยและทำให้ผลิตภัณฑ์ของตนมีประสิทธิภาพสูงขึ้น นักวิทยาศาสตร์เองก็ต้องรับฟังความต้องการและปัญหาของเกษตรกร สร้างวิทยาการที่ทั้งล้ำสมัยและใช้ได้จริง ทำให้อู่ข้าวอู่น้ำแห่งนี้ไม่เป็นสองรองใครอีกครั้งหนึ่ง!
