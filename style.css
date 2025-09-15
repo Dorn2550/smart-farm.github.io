@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: "Kanit", sans-serif;
+}
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/background-image.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header .logo{
+    width: 300px;
+    height: auto;
+}
+.nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-box{
+    width: 90%;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text-box h1{
+    font-size: 54px;
+}
+.text-box p{
+    margin: 10px 0 40px;
+    color: #fff;
+    text-align: center;
+}
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container2{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+@keyframes example {
+    0%   {background-color:rgb(255, 157, 157); left:0px; top:0px;}
+    50%  {background-color:rgb(255, 255, 195); left:200px; top:0px;}
+    100% {background-color:rgb(255, 157, 157); left:0px; top:0px;}
+  }
+.bg-dang{
+    background-color: rgb(255, 207, 207);
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
